@@ -1,59 +1,76 @@
-# 👋 Hi, I'm Pankaj Kumar Singh
+# Hi, I'm Pankaj Kumar Singh
 
-🎯 *Entry-Level Business Analyst | Data Analytics | Power BI | SQL | Agile*  
-🔍 Passionate about turning data into insights that drive strategic decisions.  
+*Entry-Level Business Analyst | Data Analytics | Power BI | SQL | Agile*  
+Passionate about turning data into insights that drive strategic decisions.
 
-📍 Singrauli, MP | 📧 pankaj31082001@gmail.com | 📞 8103911244  
-🔗 [LinkedIn](https://www.linkedin.com/in/pankaj-singh-bd2001)
-
----
-
-## 🚀 About Me
-
-I’m a certified Business Analyst from IIT Roorkee with hands-on experience in:
-
-- 🧾 Creating BRD/FRD, user stories, and stakeholder communication  
-- 📊 Building interactive dashboards using Power BI, Tableau & Excel  
-- 🔍 Analyzing business processes, improving KPIs, and solving real-world problems with data  
-- 🧠 Tools: **SQL, Power BI, Excel, Tableau, JIRA, Confluence, Agile**
+Location: Singrauli, MP  
+Email: pankaj31082001@gmail.com  
+Phone: 8103911244  
+LinkedIn: [linkedin.com/in/pankaj-singh-bd2001](https://www.linkedin.com/in/pankaj-singh-bd2001)
 
 ---
 
-## 📊 Projects
+## About Me
 
-- **Supply Chain Dashboard** – Built KPI dashboard with Power BI; improved visibility by 40%  
-- **Pizza Sales Analysis** – Built Tableau dashboards from SQL/Excel insights  
-- **Financial Performance Report** – Analyzed ₹10–15L savings across 5 regions  
+I am a certified Business Analyst from IIT Roorkee with a strong foundation in data analytics, business processes, and stakeholder communication.
 
----
+Key highlights:
 
-## 🧠 Skills
-
-`Business Analysis` `SQL` `Power BI` `Excel` `Tableau` `BRD/FRD` `Stakeholder Communication`  
-`Agile` `JIRA` `Data Cleaning` `Process Mapping` `Dashboards` `ETL`  
+- Experience in documenting BRD/FRD, user stories, and agile collaboration  
+- Built interactive dashboards in Power BI, Tableau, and Excel  
+- Skilled in analyzing trends, KPIs, and operational data  
+- Tools: SQL, Power BI, Excel, Tableau, JIRA, Confluence, Agile
 
 ---
 
-## 📈 GitHub Stats & Badges
+## Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankaj31082001&show_icons=true&theme=react)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pankaj31082001&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj31082001&layout=compact&theme=react)
+**Supply Chain Dashboard**  
+Developed a Power BI dashboard tracking 15+ KPIs; increased logistics visibility by 40% and cut reporting time by 30%.
+
+**Pizza Sales Analysis**  
+Performed SQL-based analysis to uncover time-based sales trends. Delivered Tableau visualizations for business insights.
+
+**Financial Performance Report**  
+Analyzed regional performance and identified ₹10–15 lakh in cost-saving opportunities across five zones using Excel and Power BI.
+
+---
+
+## Skills
+
+**Data & Tools**  
+SQL, Power BI, Excel (Pivot Tables, VLOOKUP), Tableau  
+Data Cleaning, ETL, Dashboard Design, DAX, Subqueries
+
+**Business Analysis**  
+BRD/FRD, Use Cases, User Stories, Requirement Gathering  
+Process Mapping (UML/BPMN), Agile Methodology, JIRA, Confluence
+
+**Soft Skills**  
+Analytical Thinking, Communication, Team Collaboration
+
+---
+
+## GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankaj31082001&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pankaj31082001&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj31082001&layout=compact&theme=default)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pankaj31082001&theme=flat&margin-w=15)
-
 ![Visitors](https://komarev.com/ghpvc/?username=pankaj31082001&color=blue)
 
 ---
 
+## Let’s Connect
 
+I’m open to internships, full-time roles, or freelance projects in analytics and business intelligence.
 
-## 📬 Let's Connect
-
-I'm open to internships, full-time roles, collaborations, or freelance analytics projects.  
-Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/pankaj-singh-bd2001) or email me directly!
+Email: pankaj31082001@gmail.com  
+LinkedIn: [linkedin.com/in/pankaj-singh-bd2001](https://www.linkedin.com/in/pankaj-singh-bd2001)
 
 ---
 
-_“Turning data into action.”_
+*"Turning data into action."*
+
 
