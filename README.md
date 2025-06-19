@@ -19,35 +19,11 @@ I’m a certified Business Analyst from IIT Roorkee with hands-on experience in:
 
 ---
 
-## 💼 Work Experience
-
-**Executive – Operations | Aegis Pvt. Ltd.**  
-*Nov 2023 – Mar 2024*  
-- Resolved 100+ queries daily across calls, chats & email  
-- Reduced repeat complaints by 25% (~300 cases)  
-- Achieved >92% CSAT score via improved support touchpoints
-
-**Operations Intern | ITC Royal Bengal**  
-*Dec 2021 – Apr 2022*  
-- Managed 500+ guest check-ins  
-- Reduced processing time by 10%  
-- Collaborated across 4 departments for enhanced coordination  
-
----
-
 ## 📊 Projects
 
 - **Supply Chain Dashboard** – Built KPI dashboard with Power BI; improved visibility by 40%  
 - **Pizza Sales Analysis** – Built Tableau dashboards from SQL/Excel insights  
 - **Financial Performance Report** – Analyzed ₹10–15L savings across 5 regions  
-
----
-
-## 🏆 Certifications
-
-- IIT Roorkee – Business Analysis & Product Management  
-- Intellipaat – Power BI, SQL for Data Analytics, Advanced Excel  
-- BCG Strategy Consulting | Tata Data Viz Challenge | Accenture Virtual Internship  
 
 ---
 
@@ -70,14 +46,7 @@ I’m a certified Business Analyst from IIT Roorkee with hands-on experience in:
 
 ---
 
-## ✍️ Latest Blogs / Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 💡 *Tip: Connect your Medium, Dev.to or Blog via GitHub Actions*
-
----
 
 ## 📬 Let's Connect
 
