@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size: 40px; color: #0A66C2;">✨ Pankaj Kumar Singh ✨</h1>
 <h3 align="center" style="font-weight: normal;">Business Analyst | Data Storyteller | KPI-Driven Thinker</h3>
 <p align="center" style="font-style: italic;">"Turning data into actionable intelligence with dashboards, metrics, and smart questions."</p>
-<img src="pankaj-profile-infographic.png" alt="Business Analyst Infographic - Pankaj Kumar Singh" width="100%">
+
 
 <!-- CONTACT -->
 <p align="center">
@@ -13,7 +13,8 @@
   <a href="https://www.linkedin.com/in/pankaj-singh-bd2001">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+ <img src="https://komarev.com/ghpvc/?username=pankaj31082001&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
