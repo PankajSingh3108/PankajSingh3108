@@ -1,4 +1,3 @@
-![Pankaj Kumar Singh - Business Analyst](./pankaj-profile.png)
 
 <!-- PROFILE HEADER -->
 <h1 align="center" style="font-size: 40px; color: #0A66C2;">✨ Pankaj Kumar Singh ✨</h1>
@@ -14,8 +13,7 @@
   <a href="https://www.linkedin.com/in/pankaj-singh-bd2001">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=pankaj31082001&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+
 
 ---
 
