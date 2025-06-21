@@ -17,7 +17,7 @@
 ---
 ![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile_2.png)
 ---
-
+![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile_3.png)
 ## 🚀 Highlight Projects
 
 ### 📦 Supply Chain Dashboard  
