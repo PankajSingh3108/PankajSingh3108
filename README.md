@@ -15,7 +15,15 @@
 </p>
 
 ---
-![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile_1.png)
+<img align="right" alt="Business Analyst" width="400" src="https://dasceq.com/wp-content/uploads/2023/03/business-intelligence-offshoring.jpg" />
+
+## 🌟 Who I Am
+
+🎓 **Certified Business Analyst** – IIT Roorkee  
+📊 Specialist in **Power BI**, **SQL**, **Python**, **R**, **Gen AI**, **CBAP**, **CBDA**  
+🧠 Advocate of agile methods, stakeholder alignment & KPI metrics  
+🛠️ **Tech Stack**:  
+SQL · Power BI · Excel · Tableau · JIRA · Confluence · Agile · Python · R · ChatGPT · Claude AI
 ---
 
 ## 🚀 Highlight Projects
