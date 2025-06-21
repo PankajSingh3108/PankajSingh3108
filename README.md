@@ -15,10 +15,8 @@
 </p>
 
 ---
-<img align="right" alt="Business Analyst" width="400" src="https://dasceq.com/wp-content/uploads/2023/03/business-intelligence-offshoring.jpg" />
 
 ## 🌟 Who I Am
-
 
 
 <!-- Description -->
