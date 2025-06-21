@@ -1,5 +1,5 @@
-<!-- BACKGROUND IMAGE & CUSTOM STYLES -->
-<img src="https://i.gifer.com/7VE.gif" width="100%" height="400px" style="object-fit: cover;" />
+<!-- GIF Background: Your selected dashboard loop -->
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/your-selected-gif.gif" width="100%" height="200px" style="object-fit: cover;" />
 
 <!-- PROFILE HEADER -->
 <h1 align="center" style="font-size: 40px; color: #0A66C2;">✨ Pankaj Kumar Singh ✨</h1>
