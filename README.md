@@ -17,7 +17,7 @@
 </p>
 
 ---
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/811bccf4-4e95-4cd4-ae59-92ad616e1094)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/31843190-caa2-48f6-afdf-4d5c2c6f600a)">
 ## 🌟 Who I Am
 
 🎓 **Certified Business Analyst** – IIT Roorkee  
