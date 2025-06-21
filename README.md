@@ -40,30 +40,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankaj31082001&show_icons=true&theme=radical&hide_title=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj31082001&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj31082001&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements & Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankaj31082001&theme=flat&column=4&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 📬 I’m always open to:  
