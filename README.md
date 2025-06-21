@@ -1,3 +1,4 @@
+![Pankaj Business Analyst Infographic](./pankaj-profile.png)
 
 <!-- PROFILE HEADER -->
 <h1 align="center" style="font-size: 40px; color: #0A66C2;">✨ Pankaj Kumar Singh ✨</h1>
