@@ -1,3 +1,6 @@
+<!-- BACKGROUND IMAGE & CUSTOM STYLES -->
+<img src="https://i.gifer.com/7VE.gif" width="100%" height="200px" style="object-fit: cover;" />
+
 <!-- PROFILE HEADER -->
 <h1 align="center" style="font-size: 40px; color: #0A66C2;">✨ Pankaj Kumar Singh ✨</h1>
 <h3 align="center" style="font-weight: normal;">Business Analyst | Data Storyteller | KPI-Driven Thinker</h3>
@@ -6,12 +9,12 @@
 <!-- CONTACT -->
 <p align="center">
   <a href="mailto:pankaj31082001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pankaj-singh-bd2001">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=pankaj31082001&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pankaj31082001&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -40,7 +43,7 @@ Benchmarked financials across 5 zones with Excel + Power BI, uncovering ₹10–
 
 ## 💡 Technical Skills & Tools
 
-<table>
+<table align="center">
 <tr>
 <td><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
 <td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></td>
@@ -94,4 +97,3 @@ Benchmarked financials across 5 zones with Excel + Power BI, uncovering ₹10–
 ---
 
 <p align="center"><strong><em>"Turning Data Into Decisions – One Insight at a Time."</em></strong></p>
-
