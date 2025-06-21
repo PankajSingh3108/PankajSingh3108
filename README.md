@@ -1,4 +1,4 @@
-
+![LOGO](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/pankaj-profile.png.png)
 <!-- PROFILE HEADER -->
 <h1 align="center" style="font-size: 40px; color: #0A66C2;">✨ Pankaj Kumar Singh ✨</h1>
 <h3 align="center" style="font-weight: normal;">Business Analyst | Data Storyteller | KPI-Driven Thinker</h3>
