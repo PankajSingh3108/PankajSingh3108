@@ -19,9 +19,6 @@
 
 ## 🌟 Who I Am
 
-<!-- Image Section -->
-<img align="right" alt="Business Analyst Illustration" width="400" src="https://dasceq.com/wp-content/uploads/2023/03/business-intelligence-offshoring.jpg" />
-
 <!-- Title Section -->
 <h2 align="left" style="font-family:Segoe UI, sans-serif;">🌟 <b>Who I Am</b></h2>
 
