@@ -19,7 +19,7 @@
 ## 🌟 Who I Am
 
 🎓 **Certified Business Analyst** – IIT Roorkee  
-📊 Specialist in **Power BI**, **SQL**, and **CBAP**  
+📊 Specialist in **Power BI**, **SQL**, **CBAP** 
 🧠 Advocate of agile methods, stakeholder alignment & KPI metrics  
 🛠️ Tech Stack: SQL · Power BI · Excel · Tableau · JIRA · Confluence · Agile
 
