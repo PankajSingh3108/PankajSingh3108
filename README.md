@@ -17,17 +17,8 @@
 ---
 ![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile_2.png)
 ---
-![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile_3.png)
 ## 🚀 Highlight Projects
-
-### 📦 Supply Chain Dashboard  
-Built a dynamic Power BI dashboard with 15+ KPIs — increased logistics visibility by 40% and reduced reporting time by 30%.
-
-### 🍕 Pizza Sales Trend Analysis  
-Performed deep-dive SQL analysis and created interactive Tableau dashboards to identify peak-time trends and drive marketing decisions.
-
-### 💰 Financial Performance Report  
-Benchmarked financials across 5 zones with Excel + Power BI, uncovering ₹10–15L in cost savings with detailed visual reports.
+![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile_3.png)
 
 ---
 
