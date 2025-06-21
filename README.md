@@ -1,8 +1,6 @@
 
 <!-- PROFILE HEADER -->
-<h1 align="center" style="font-size: 40px; color: #0A66C2;">✨ Pankaj Kumar Singh ✨</h1>
-<h3 align="center" style="font-weight: normal;">Business Analyst | Data Storyteller | KPI-Driven Thinker</h3>
-<p align="center" style="font-style: italic;">"Turning data into actionable intelligence with dashboards, metrics, and smart questions."</p>
+![logo](
 
 
 <!-- CONTACT -->
