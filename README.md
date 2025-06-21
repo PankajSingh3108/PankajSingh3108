@@ -19,8 +19,7 @@
 
 ## 🌟 Who I Am
 
-<!-- Title Section -->
-<h2 align="left" style="font-family:Segoe UI, sans-serif;">🌟 <b>Who I Am</b></h2>
+
 
 <!-- Description -->
 🎓 <strong style="font-family:Verdana;">Certified Business Analyst</strong> – <i>IIT Roorkee</i>  
