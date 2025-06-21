@@ -15,14 +15,7 @@
 </p>
 
 ---
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/31843190-caa2-48f6-afdf-4d5c2c6f600a">
-## 🌟 Who I Am
-
-🎓 **Certified Business Analyst** – IIT Roorkee  
-📊 Specialist in **Power BI**, **SQL**, **CBAP** 
-🧠 Advocate of agile methods, stakeholder alignment & KPI metrics  
-🛠️ Tech Stack: SQL · Power BI · Excel · Tableau · JIRA · Confluence · Agile
-
+![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile_1.png)
 ---
 
 ## 🚀 Highlight Projects
