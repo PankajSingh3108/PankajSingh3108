@@ -1,6 +1,6 @@
 
 <!-- PROFILE HEADER -->
-![logo](
+![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile.png)
 
 
 <!-- CONTACT -->
