@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdasceq.com%2Fbusiness-intelligence-offshoring%2F&psig=AOvVaw0F5koTqujBnTBoS2yE6qSJ&ust=1750594625930000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDN0by_go4DFQAAAAAdAAAAABAE"
 ## 🌟 Who I Am
 
 🎓 **Certified Business Analyst** – IIT Roorkee  
