@@ -19,11 +19,21 @@
 
 ## 🌟 Who I Am
 
-🎓 **Certified Business Analyst** – IIT Roorkee  
-📊 Specialist in **Power BI**, **SQL**, **Python**, **R**, **Gen AI**, **CBAP**, **CBDA**  
-🧠 Advocate of agile methods, stakeholder alignment & KPI metrics  
-🛠️ **Tech Stack**:  
-SQL · Power BI · Excel · Tableau · JIRA · Confluence · Agile · Python · R · ChatGPT · Claude AI
+<!-- Image Section -->
+<img align="right" alt="Business Analyst Illustration" width="400" src="https://dasceq.com/wp-content/uploads/2023/03/business-intelligence-offshoring.jpg" />
+
+<!-- Title Section -->
+<h2 align="left" style="font-family:Segoe UI, sans-serif;">🌟 <b>Who I Am</b></h2>
+
+<!-- Description -->
+🎓 <strong style="font-family:Verdana;">Certified Business Analyst</strong> – <i>IIT Roorkee</i>  
+📊 <strong>Specialist in:</strong> <span style="color:#ffa500;">Power BI</span>, <span style="color:#ffa500;">SQL</span>, <span style="color:#ffa500;">Python</span>, <span style="color:#ffa500;">R</span>, <span style="color:#ffa500;">Gen AI</span>, <span style="color:#ffa500;">CBAP</span>, <span style="color:#ffa500;">CBDA</span>  
+🧠 <strong>Advocate of:</strong> Agile methods, stakeholder alignment & KPI-driven decision making  
+
+<!-- Tech Stack -->
+🛠️ <strong>Tech Stack:</strong>  
+<code>SQL</code> · <code>Power BI</code> · <code>Excel</code> · <code>Tableau</code> · <code>JIRA</code> · <code>Confluence</code> · <code>Agile</code> · <code>Python</code> · <code>R</code> · <code>ChatGPT</code> · <code>Claude AI</code>
+
 ---
 
 ## 🚀 Highlight Projects
