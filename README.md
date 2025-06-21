@@ -1,5 +1,5 @@
 <!-- GIF Background: Multi‑Chart Dashboard Loop -->
-<img src="YOUR_GIF_URL_HERE" width="100%" height="200px" style="object-fit: cover;" />
+<img src="file:///C:/Users/admin/Downloads/man-1835.gif" width="100%" height="200px" style="object-fit: cover;" />
 
 <!-- PROFILE HEADER -->
 <h1 align="center" style="font-size: 40px; color: #0A66C2;">✨ Pankaj Kumar Singh ✨</h1>
