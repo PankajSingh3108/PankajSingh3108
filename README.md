@@ -1,6 +1,6 @@
 
 <!-- PROFILE HEADER -->
-![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile.png)
+![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile_0.png)
 
 
 <!-- CONTACT -->
@@ -14,8 +14,7 @@
  <img src="https://komarev.com/ghpvc/?username=pankaj31082001&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
----
-![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile_2.png)
+
 ---
 ## 🚀 Highlight Projects
 ![logo](https://github.com/PankajSingh3108/PankajSingh3108/blob/main/Pankaj_Profile_3.png)
