@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pankaj Kumar Singh | Business Analyst Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+    .gradient-text {
+      background: linear-gradient(270deg, #3b82f6, #9333ea, #f43f5e);
+      background-size: 600% 600%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: gradientShift 6s ease infinite;
+    }
+    @keyframes gradientShift {
+      0% {background-position:0% 50%;}
+      50% {background-position:100% 50%;}
+      100% {background-position:0% 50%;}
+    }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+
+  <!-- Navbar -->
+  <nav class="bg-white shadow-md fixed w-full z-50">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
+      <h1 class="text-xl font-bold gradient-text">Pankaj Kumar Singh</h1>
+      <div class="space-x-4 text-sm">
+        <a href="#about" class="hover:text-blue-600">About</a>
+        <a href="#portfolio" class="hover:text-blue-600">Portfolio</a>
+        <a href="#certifications" class="hover:text-blue-600">Certifications</a>
+        <a href="#resume" class="hover:text-blue-600">Resume</a>
+        <a href="#contact" class="hover:text-blue-600">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="pt-28 pb-10 bg-gradient-to-r from-purple-100 via-pink-100 to-blue-100">
+    <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center px-6">
+      <div class="flex-1 text-center md:text-left">
+        <h1 class="text-4xl md:text-5xl font-bold mb-4">Hello, I'm <span class="gradient-text">Pankaj Kumar Singh</span></h1>
+        <p class="text-lg mb-6">Certified Business Analyst with experience in data-driven decision making, dashboard reporting, and analytics.</p>
+        <div class="flex flex-col sm:flex-row items-center sm:justify-start space-y-4 sm:space-y-0 sm:space-x-4">
+          <a href="#contact" class="bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700 transition">Let's Connect</a>
+          <a href="https://github.com/PankajSingh3108" target="_blank" class="text-2xl text-gray-700 hover:text-blue-600">
+            <i class="fab fa-github"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/pankaj-singh-bd2001" target="_blank" class="text-2xl text-gray-700 hover:text-blue-600">
+            <i class="fab fa-linkedin"></i>
+          </a>
+        </div>
+      </div>
+      <div class="flex-1 mt-6 md:mt-0 flex justify-center">
+        <img src="pankaj.jpg" alt="Pankaj Kumar Singh" class="w-60 h-72 object-cover rounded-lg shadow-lg">
+      </div>
+    </div>
+    <div class="max-w-4xl mx-auto mt-10 grid grid-cols-3 text-center gap-4">
+      <div>
+        <p class="text-2xl font-bold text-blue-600">2+</p>
+        <p class="text-sm">Years Experience</p>
+      </div>
+      <div>
+        <p class="text-2xl font-bold text-blue-600">15+</p>
+        <p class="text-sm">Projects Completed</p>
+      </div>
+      <div>
+        <p class="text-2xl font-bold text-blue-600">8+</p>
+        <p class="text-sm">Certifications</p>
+      </div>
+    </div>
+  </section>
+<!-- About -->
+  <section id="about" class="py-16 max-w-5xl mx-auto px-6">
+    <h2 class="text-3xl font-bold mb-6 text-center gradient-text">About Me</h2>
+    <div class="grid md:grid-cols-2 gap-8 items-center">
+      <img src="pankaj.jpg" alt="Pankaj" class="w-72 h-80 object-cover rounded-lg shadow-lg mx-auto">
+      <div>
+        <p class="text-gray-700 mb-4">
+          I'm a passionate Business Analyst with expertise in SQL, Power BI, Tableau, and Excel. I love transforming complex datasets into actionable insights that empower businesses to make smarter decisions.
+        </p>
+        <a href="#portfolio" class="inline-block bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700 transition">See My Work</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Portfolio -->
+  <section id="portfolio" class="py-16 bg-white">
+    <div class="max-w-6xl mx-auto px-6">
+      <h2 class="text-3xl font-bold mb-8 text-center gradient-text">Portfolio</h2>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class="bg-gray-100 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+          <img src="credit-card-fraud-detection.png" alt="Credit Card Fraud Detection" class="w-full h-48 object-cover">
+          <div class="p-4">
+            <h3 class="font-semibold text-lg">Credit Card Fraud Detection</h3>
+            <p class="text-sm mb-2">Explored fraud patterns and built dashboards to visualize anomalies.</p>
+            <a href="https://github.com/PankajSingh3108/Bank_Fraudulent_Analysis" class="text-blue-600 text-sm">View on GitHub ↗</a>
+          </div>
+        </div>
+        <div class="bg-gray-100 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+          <img src="ecommerce-cart-analysis.png" alt="E-Commerce Cart Abandonment" class="w-full h-48 object-cover">
+          <div class="p-4">
+            <h3 class="font-semibold text-lg">Cart Abandonment Analysis</h3>
+            <p class="text-sm mb-2">Analyzed funnel drop-offs to improve conversion rates.</p>
+            <a href="https://github.com/PankajSingh3108/Cart-Abandonment-Analysis-for-an-E-Commerce-Platform" class="text-blue-600 text-sm">View on GitHub ↗</a>
+          </div>
+        </div>
+        <div class="bg-gray-100 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+          <img src="employee-attrition-analysis.png" alt="Employee Attrition" class="w-full h-48 object-cover">
+          <div class="p-4">
+            <h3 class="font-semibold text-lg">Employee Attrition Analysis</h3>
+            <p class="text-sm mb-2">Built predictive models to flag high-risk employees.</p>
+            <a href="https://github.com/PankajSingh3108/Employee_Attrition_Analysis" class="text-blue-600 text-sm">View on GitHub ↗</a>
+          </div>
+        </div>
+        <div class="bg-gray-100 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+          <img src="hospital-no-show-analysis.png" alt="Hospital No-Show" class="w-full h-48 object-cover">
+          <div class="p-4">
+            <h3 class="font-semibold text-lg">Hospital No-Show Analysis</h3>
+            <p class="text-sm mb-2">Detected scheduling gaps and recommended improvements.</p>
+            <a href="https://github.com/PankajSingh3108/Optimizing-Patient-Appointment-Scheduling-Efficiency" class="text-blue-600 text-sm">View on GitHub ↗</a>
+          </div>
+        </div>
+        <div class="bg-gray-100 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+          <img src="retail-sales-analysis.png" alt="Retail Sales" class="w-full h-48 object-cover">
+          <div class="p-4">
+            <h3 class="font-semibold text-lg">Retail Sales Dashboard</h3>
+            <p class="text-sm mb-2">Built Power BI dashboards to monitor profitability.</p>
+            <a href="https://github.com/PankajSingh3108/Retail_Sales_Analysis" class="text-blue-600 text-sm">View on GitHub ↗</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Certifications -->
+  <section id="certifications" class="py-16 bg-gray-50">
+    <div class="max-w-5xl mx-auto px-6">
+      <h2 class="text-3xl font-bold mb-8 text-center gradient-text">Certifications</h2>
+      <ul class="grid md:grid-cols-2 gap-4 text-sm text-gray-700">
+        <li><a href="https://tih.iitr.ac.in/certificate/intellipaat/IPTIH2502438.jpg" class="text-blue-600 hover:underline">IIT Roorkee – Business Analysis & Product Management</a></li>
+        <li><a href="https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEzNDIxJnU9MjczMzY2JmV4dD0x" class="text-blue-600 hover:underline">Power BI: Visualization and DAX – Intellipaat</a></li>
+        <li><a href="https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEzMTg4JnU9MjczMzY2JmV4dD0x" class="text-blue-600 hover:underline">Business Analyst – Intellipaat</a></li>
+        <li><a href="https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEzMTY3JnU9MjczMzY2JmV4dD0x" class="text-blue-600 hover:underline">SQL for Data Analytics – Intellipaat</a></li>
+        <li><a href="https://lms.intellipaat.com/certificate-link/?Yz0yNjYwOSZ1PTI3MzM2NiZleHQ9MQ==" class="text-blue-600 hover:underline">Advanced Excel – Intellipaat</a></li>
+        <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_qZ5RM9ox68reftPBq_1731574431912_completion_certificate.pdf" class="text-blue-600 hover:underline">Accenture NA – Data Analytics & Visualization</a></li>
+        <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/ntTvo6ru6Tq3A2JPq_SKZxezskWgmFjRvj9_qZ5RM9ox68reftPBq_1744631204058_completion_certificate.pdf" class="text-blue-600 hover:underline">BCG Strategy Consulting – Forage</a></li>
+        <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/vZSN6eoncQtCPYbqz_ovyvuqqNRQKBjNxbj_qZ5RM9ox68reftPBq_1752477269825_completion_certificate.pdf" class="text-blue-600 hover:underline">Accenture UK – Strategy Consulting</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Resume -->
+  <section id="resume" class="py-16 bg-white text-center">
+    <h2 class="text-3xl font-bold mb-6 gradient-text">Resume</h2>
+    <p class="mb-4 text-gray-700">Click below to view or download my updated resume.</p>
+    <a href="Pankaj_Singh_Resume.pdf" target="_blank"
+       class="inline-block bg-blue-600 text-white px-6 py-3 rounded hover:bg-blue-700 transition">
+      View Resume PDF
+    </a>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" class="py-16 bg-gradient-to-r from-blue-50 to-purple-50 text-center">
+    <h2 class="text-3xl font-bold mb-4 gradient-text">Let's Discuss Your Project</h2>
+    <p class="mb-6">I’m available for freelance Business Analyst opportunities. Let’s connect!</p>
+    <a href="mailto:pankaj31082001@gmail.com" class="inline-block bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700 transition">Email Me</a>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-white py-6">
+    <div class="flex flex-col items-center space-y-3">
+      <div class="flex space-x-6 text-2xl">
+        <a href="https://github.com/PankajSingh3108" target="_blank" class="hover:text-blue-400">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/pankaj-singh-bd2001" target="_blank" class="hover:text-blue-400">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </div>
+      <p class="text-sm">&copy; 2025 Pankaj Kumar Singh. All rights reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
